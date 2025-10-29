@@ -1,0 +1,23 @@
+BAR DOIS COMPUTADORES
+========================================
+Bar Dois Computadores, Lda
+NIF: 500000001
+Rua Principal, 123 - Luanda
+Tel: +244 900 000 000
+----------------------------------------
+Data: 29/10/2025 22:44
+Recibo: V202510291571
+Vendedor: Administrador Sistema
+----------------------------------------
+Descrição            Qtd    Preço    Total
+----------------------------------------
+Água 0.5L              1   200.00   200.00
+Cerveja                1   500.00   500.00
+Sumo Laranja           1   350.00   350.00
+----------------------------------------
+TOTAL:                           1050.00 Kze
+TOTAL FINAL:                     1050.00 Kze
+Pagamento: dinheiro
+========================================
+Obrigado pela sua visita! Volte sempre!
+     

@@ -1,0 +1,120 @@
+{
+  "categorias": [
+    {
+      "nome": "Bebidas",
+      "cor": "#3498db",
+      "botoes": [
+        {
+          "codigo": "001",
+          "texto": "Cerveja",
+          "cor": "#2980b9",
+          "imagem": "cerveja.png",
+          "preco": 500
+        },
+        {
+          "codigo": "002",
+          "texto": "Água 0.5L",
+          "cor": "#3498db",
+          "imagem": "agua.png",
+          "preco": 200
+        },
+        {
+          "codigo": "003",
+          "texto": "Sumo Laranja",
+          "cor": "#3498db",
+          "imagem": "sumo.png",
+          "preco": 350
+        },
+        {
+          "codigo": "004",
+          "texto": "Refrigerante",
+          "cor": "#3498db",
+          "imagem": "refri.png",
+          "preco": 300
+        },
+        {
+          "codigo": "005",
+          "texto": "Café",
+          "cor": "#8B4513",
+          "imagem": "cafe.png",
+          "preco": 150
+        },
+        {
+          "codigo": "006",
+          "texto": "Chá",
+          "cor": "#228B22",
+          "imagem": "cha.png",
+          "preco": 150
+        }
+      ]
+    },
+    {
+      "nome": "Comidas",
+      "cor": "#e74c3c",
+      "botoes": [
+        {
+          "codigo": "007",
+          "texto": "Hambúrguer",
+          "cor": "#c0392b",
+          "imagem": "hamburger.png",
+          "preco": 1200
+        },
+		{
+          "codigo": "4897057900065",
+          "texto": "Hambúrguer",
+          "cor": "#c0392b",
+          "imagem": "hamburger.png",
+          "preco": 1200
+        },
+        {
+          "codigo": "008",
+          "texto": "Pizza",
+          "cor": "#e74c3c",
+          "imagem": "pizza.png",
+          "preco": 1500
+        },
+        {
+          "codigo": "009",
+          "texto": "Batatas Fritas",
+          "cor": "#e74c3c",
+          "imagem": "batatas.png",
+          "preco": 600
+        },
+        {
+          "codigo": "010",
+          "texto": "Sanduíche",
+          "cor": "#e74c3c",
+          "imagem": "sanduiche.png",
+          "preco": 800
+        }
+      ]
+    },
+    {
+      "nome": "Sobremesas",
+      "cor": "#f39c12",
+      "botoes": [
+        {
+          "codigo": "011",
+          "texto": "Bolo",
+          "cor": "#d35400",
+          "imagem": "bolo.png",
+          "preco": 450
+        },
+        {
+          "codigo": "012",
+          "texto": "Gelado",
+          "cor": "#f39c12",
+          "imagem": "gelado.png",
+          "preco": 400
+        },
+        {
+          "codigo": "013",
+          "texto": "Pudim",
+          "cor": "#f39c12",
+          "imagem": "pudim.png",
+          "preco": 350
+        }
+      ]
+    }
+  ]
+}

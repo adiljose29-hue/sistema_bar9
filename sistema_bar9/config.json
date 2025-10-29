@@ -1,0 +1,70 @@
+{
+  "sistema": {
+    "nome": "Sistema Bar Dois Computadores",
+    "versao": "1.0",
+    "moeda": "Kze",
+    "simbolo_moeda": "Kze",
+    "ativo_desconto": true,
+    "ativo_multiforma_pagamento": true,
+    "controlo_stock": true,
+    "som_ativo": true,
+    "mostrar_iva_ecra": false,
+    "mostrar_iva_recibo": false,
+    "iva_incluido_preco": true,
+    "timeout_sessao": 300
+  },
+  "banco_dados": {
+    "host": "localhost",
+    "porta": 3306,
+    "nome": "sistema_bar",
+    "usuario": "root",
+    "senha": ""
+  },
+  "recibo": {
+    "tamanho_papel": 80,
+    "cabecalho": {
+      "texto": "BAR DOIS COMPUTADORES",
+      "negrito": true,
+      "centralizado": true
+    },
+    "empresa": {
+      "nome": "Bar Dois Computadores, Lda",
+      "nif": "500000001",
+      "endereco": "Rua Principal, 123 - Luanda",
+      "telefone": "+244 900 000 000"
+    },
+    "detalhes": {
+      "mostrar_iva": false,
+      "mostrar_codigo_produto": true,
+      "mostrar_calculo_iva": false,
+      "mostrar_vendedor": true
+    },
+    "rodape": {
+      "texto": "Obrigado pela sua visita! Volte sempre!",
+      "centralizado": true
+    },
+    "local_guardar": "recibos/"
+  },
+  "impressora": {
+    "tipo": "windows",
+    "nome_impressora_windows": "impresso",
+    "porta_usb": "USB005",
+    "porta_ethernet": "192.168.1.100:9100",
+    "comandos_escpos": {
+      "ativar_gaveta": "ESC p 0 60 240",
+      "corte_automatico": "ESC m",
+      "inicializar": "ESC @"
+    },
+    "corte_automatico": true,
+    "abrir_gaveta": true
+  },
+  "supervisor": {
+    "cartao_codigo_barras": "1234567890123",
+    "validacao_usuario_senha": true
+  },
+  "touchscreen": {
+    "teclado_virtual": true,
+    "layout_botoes": "layout_botoes.json",
+    "timeout_sessao": 300
+  }
+}
